@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/fatedier/frp/test/e2e/pkg/rpc"
+	"github.com/HaidyCao/frp_0380/test/e2e/pkg/rpc"
 	libnet "github.com/fatedier/golib/net"
 )
 

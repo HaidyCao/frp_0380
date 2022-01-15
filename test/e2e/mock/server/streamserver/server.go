@@ -6,8 +6,8 @@ import (
 	"io"
 	"net"
 
-	libnet "github.com/fatedier/frp/pkg/util/net"
-	"github.com/fatedier/frp/test/e2e/pkg/rpc"
+	libnet "github.com/HaidyCao/frp_0380/pkg/util/net"
+	"github.com/HaidyCao/frp_0380/test/e2e/pkg/rpc"
 )
 
 type Type string

@@ -17,8 +17,8 @@ package config
 import (
 	"testing"
 
-	"github.com/fatedier/frp/pkg/auth"
-	plugin "github.com/fatedier/frp/pkg/plugin/server"
+	"github.com/HaidyCao/frp_0380/pkg/auth"
+	plugin "github.com/HaidyCao/frp_0380/pkg/plugin/server"
 
 	"github.com/stretchr/testify/assert"
 )

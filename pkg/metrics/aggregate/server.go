@@ -15,9 +15,9 @@
 package aggregate
 
 import (
-	"github.com/fatedier/frp/pkg/metrics/mem"
-	"github.com/fatedier/frp/pkg/metrics/prometheus"
-	"github.com/fatedier/frp/server/metrics"
+	"github.com/HaidyCao/frp_0380/pkg/metrics/mem"
+	"github.com/HaidyCao/frp_0380/pkg/metrics/prometheus"
+	"github.com/HaidyCao/frp_0380/server/metrics"
 )
 
 // EnableMem start to mark metrics to memory monitor system.
