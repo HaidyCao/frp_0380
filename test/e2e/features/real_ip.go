@@ -14,8 +14,8 @@ import (
 	"github.com/HaidyCao/frp_0380/test/e2e/pkg/request"
 	"github.com/HaidyCao/frp_0380/test/e2e/pkg/rpc"
 
+	pp "github.com/HaidyCao/go-proxyproto"
 	. "github.com/onsi/ginkgo"
-	pp "github.com/pires/go-proxyproto"
 )
 
 var _ = Describe("[Feature: Real IP]", func() {
